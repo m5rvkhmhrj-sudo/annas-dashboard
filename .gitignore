@@ -1,0 +1,5 @@
+# Only the deployable cloud app belongs in this repo.
+# Everything else at the project root stays local and out of GitHub.
+/*
+!/.gitignore
+!/cloud/

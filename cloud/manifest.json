@@ -1,0 +1,14 @@
+{
+  "name": "Anna's Dashboard",
+  "short_name": "Dashboard",
+  "description": "Tasks, calendar, and journal in one place.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FBEFF1",
+  "theme_color": "#8E365C",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
